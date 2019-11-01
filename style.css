@@ -1,0 +1,33 @@
+
+body  {
+  background-image: url("assets/img/background.jpg");
+  
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  border: royalblue;
+}
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+footer  {
+  background-image: url("assets/img/foot.jpeg");
+  
+}
